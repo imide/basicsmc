@@ -1,0 +1,13 @@
+filename = 'motionblur-1.0.5+mc1.21.jar'
+name = 'Motion Blur'
+side = 'client'
+
+[download]
+hash = 'dfa449c0bd559395cd655f06dea99ca4b3c1270d670c467836c1cab1947da3c7fe94a89ae79628ef019b6bfd36bbcfc4d10d7b34204fa6061eb0cc0c34c1879b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fWundlde/versions/BvbEzwcG/motionblur-1.0.5%2Bmc1.21.jar'
+
+[update.modrinth]
+mod-id = 'fWundlde'
+version = 'BvbEzwcG'

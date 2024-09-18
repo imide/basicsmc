@@ -1,0 +1,13 @@
+filename = 'hitboxplus-1.21-0.2.4.jar'
+name = 'HitBox+'
+side = 'client'
+
+[download]
+hash = '928aebb4e063be6acdef69475e9d0ab92c4b190a628fe3c6ccf278968837b7e48dc1b3de86215065b2ef9820f429f208dd9de4fb9bb63a40ecc71a31ad614426'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nbkDyHgy/versions/lrsLi4uX/hitboxplus-1.21-0.2.4.jar'
+
+[update.modrinth]
+mod-id = 'nbkDyHgy'
+version = 'lrsLi4uX'

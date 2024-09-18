@@ -1,0 +1,13 @@
+filename = 'Boxlib-fabric-14.3.0.jar'
+name = 'BoxLib'
+side = 'client'
+
+[download]
+hash = '94bfa4c2f1b9334079d3348a7f69c746f7982a0d5a404c10566bf8770079f1fb7af610b3c78f48468aeab8212c7cfe8ad653da1c9ffaeb8a39f1c7b82ee07a3c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HAE5KvTA/versions/HFXRu9Ia/Boxlib-fabric-14.3.0.jar'
+
+[update.modrinth]
+mod-id = 'HAE5KvTA'
+version = 'HFXRu9Ia'

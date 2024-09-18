@@ -1,0 +1,13 @@
+filename = 'DroppedItemTweaks 1.20.6-fabric-1.1.0.jar'
+name = 'Dropped Item Tweaks'
+side = 'client'
+
+[download]
+hash = '7bc30f3b853fd4b1efd000ca55ea6aa94caec9f83576c453c691e8173fe4a1505e62f228780aebca45814a1ac439254864d4833fe2a5bec3ffb6287b57c4d4cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8sg2XRWF/versions/8HzOqMP0/DroppedItemTweaks 1.20.6-fabric-1.1.0.jar'
+
+[update.modrinth]
+mod-id = '8sg2XRWF'
+version = '8HzOqMP0'

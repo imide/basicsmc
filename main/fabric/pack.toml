@@ -1,0 +1,13 @@
+name = "The Basics"
+author = "imide"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5d8f902f1bbbcf09ec398f2037cfb885346fb044537ad0d86e78b85b3071bfe5"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"

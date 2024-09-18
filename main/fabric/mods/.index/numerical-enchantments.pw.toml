@@ -1,0 +1,13 @@
+filename = 'Numerical-Enchantments 1.21-fabric-1.0.0.jar'
+name = 'Numerical Enchantments'
+side = 'client'
+
+[download]
+hash = 'baf2101fa8845cd65863c1cf830b639bf64d07860619bce56ed87aeb3cca732af0620e9277ecba92c7804bdf17d22e1e92cddcd5ca0ae4f79d6e9840a317dc80'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HeyHGg62/versions/tm4fKTFu/Numerical-Enchantments 1.21-fabric-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'HeyHGg62'
+version = 'tm4fKTFu'

@@ -1,0 +1,13 @@
+filename = 'ash_api-fabric-21.0.2-beta.jar'
+name = 'Ash API'
+side = 'both'
+
+[download]
+hash = 'be479ffa6da581863e15af0bd94ec3874762c659de96af09301221cbcb63c77bfa393812adf320fdd36fd08e6d6649df0fea2f6ea44810615f32e41c13bf69fa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q8xUICr6/versions/xMLyxpUH/ash_api-fabric-21.0.2-beta.jar'
+
+[update.modrinth]
+mod-id = 'Q8xUICr6'
+version = 'xMLyxpUH'

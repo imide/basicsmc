@@ -1,0 +1,13 @@
+filename = 'better-selection-1.6.2.jar'
+name = 'Better Selection'
+side = 'client'
+
+[download]
+hash = '9f80ebf0fded953d530198d24a023c64e9b533296717feef219f4f6d1dd8e2f96e336d9c949852ca865e4f723beed96af1dc63c46b4ea42abb20c5693e38d080'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xIpcAYJL/versions/8ROPRyKd/better-selection-1.6.2.jar'
+
+[update.modrinth]
+mod-id = 'xIpcAYJL'
+version = '8ROPRyKd'

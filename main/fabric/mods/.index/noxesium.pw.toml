@@ -1,0 +1,13 @@
+filename = 'noxesium-2.3.0.jar'
+name = 'Noxesium'
+side = 'client'
+
+[download]
+hash = '3f6eccb95afe8221f23abbf094a4c38552186d26c225b6633c51113c58bbff1b82f57485510639e56a71087df55b5a33e0cdc1aac593ac195dbd7f4e03e6ec29'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/2sEAEHWK/noxesium-2.3.0.jar'
+
+[update.modrinth]
+mod-id = 'Kw7Sm3Xf'
+version = '2sEAEHWK'

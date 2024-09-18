@@ -1,0 +1,13 @@
+filename = 'fadeless-fabric-1.1.0.jar'
+name = 'Fadeless'
+side = 'client'
+
+[download]
+hash = '03ed6000b2543180cac5e283319c6b9959ef38b24e4aa94706fe5da509ed34ecaeb5ee435a518db30bf854b921e51cd9c4e97d26fee18a81ef3ad65efe495191'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ncKjyGm3/versions/1b06wT0J/fadeless-fabric-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'ncKjyGm3'
+version = '1b06wT0J'

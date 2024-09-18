@@ -1,0 +1,13 @@
+filename = 'chathighlighter-1.4.0+mc1.21.jar'
+name = 'ChatHighlighter'
+side = 'client'
+
+[download]
+hash = 'c9ac0cd13c5c4af0676672ad2bd10e3086ba6d3c71ac6e5db5398f222594bcc5c6f7784598aa89fa5a7d818f70e9e2140e4d70d79ae1572e816f93ca6a3924df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c8Htc9JU/versions/ZK1NCTPn/chathighlighter-1.4.0%2Bmc1.21.jar'
+
+[update.modrinth]
+mod-id = 'c8Htc9JU'
+version = 'ZK1NCTPn'

@@ -1,0 +1,13 @@
+filename = 'earlyloadingscreen-mc1.21-0.1.5-all.jar'
+name = 'Early Loading Screen'
+side = 'client'
+
+[download]
+hash = '84691d33dbf9a79c055d3321a74e0283291b31437b794f5fcd1c03cea8f44fba6076b6d8b237574c36283289df9d18e5459e4235f815a0f46be793b2ab0ce97b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JVIyMkGt/versions/Ow90WaMF/earlyloadingscreen-mc1.21-0.1.5-all.jar'
+
+[update.modrinth]
+mod-id = 'JVIyMkGt'
+version = 'Ow90WaMF'

@@ -1,0 +1,13 @@
+filename = 'persistent-stuff-1.2.0.jar'
+name = 'Persistent Stuff'
+side = 'client'
+
+[download]
+hash = '29d657c2026cf0fa5e4bce3e055eadeb45b9850659f14592055f73f56745ec46b69835a8fa1e01dfbd49621a25067785b9ca0e204683c98469d570ee6d5f9442'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JrL0mDN6/versions/2iuBsQOw/persistent-stuff-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'JrL0mDN6'
+version = '2iuBsQOw'

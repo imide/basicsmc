@@ -1,0 +1,13 @@
+filename = 'CoordinatesDisplay-fabric-13.1.0.jar'
+name = 'Coordinates Display'
+side = 'client'
+
+[download]
+hash = 'b92d1a8c15dc321b1d437dde6db35bfd3c7e3e972df5022d22f4c81c14598cc0b6292f556013baf6235857804a9f58f2f63de24c2f3e42b10655fd4560a4efc6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3mW8PdUo/versions/YyfWudgG/CoordinatesDisplay-fabric-13.1.0.jar'
+
+[update.modrinth]
+mod-id = '3mW8PdUo'
+version = 'YyfWudgG'

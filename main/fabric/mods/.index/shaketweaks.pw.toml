@@ -1,0 +1,13 @@
+filename = 'ShakeTweaks 1.21-fabric-1.0.2.jar'
+name = 'Shake Tweaks'
+side = 'client'
+
+[download]
+hash = 'bbf209c281a5aea886bedf5fd7e54009373962aecc9ca2fa78e386471d8cdd9bb0bc7ebd15da246d9c7b094817c2604e29c3d0453e4c0450c56e3490eba9e7b1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/plzVz20Z/versions/hNQv5Gvz/ShakeTweaks 1.21-fabric-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'plzVz20Z'
+version = 'hNQv5Gvz'
